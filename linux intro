@@ -1,0 +1,14 @@
+22/02/24
+SOC-System on chip-(A5D27)-Phycore A4D2X
+SOM-System on module
+SBC-single board computer(rugged board A5D2X)
+we can boot in:SD card,network boot,flash memory.
+linux will consider everything as a file.if not a file,then it is a process
+flash->hard disk.E-porting.
+BIOS-running the basic code
+bootROM code is in SOC
+Zimage is a cornel image
+.dts-device tree source
+.dtsi-device tree source include
+.dtb-device tree binary
+cornel mount the root file system.

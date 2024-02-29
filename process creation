@@ -1,0 +1,13 @@
+29/2/24
+process creation:
+system()
+fork()
+wait()
+waitpid()
+exec()
+clone()
+in this system() is library  call
+fork(),wait(),waitpid(),exec(),clone() are system call
+fork(),wait(),waitpid(),exec() call the clone()
+PID-parent id
+PPID-parent process id
